@@ -28,6 +28,8 @@ I'm Aaron Schultz - a .NET Developer, Tech Enthusiast and Gamer from Hamburg, Ge
   <img alt="Unity" src="https://img.shields.io/badge/Unity-121011.svg?&style=for-the-badge&logo=Unity&logoColor=white" />
   <img alt="GIT" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /> 
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="ReSharper" src="https://img.shields.io/badge/Resharper-121011.svg?&style=for-the-badge&logo=JetBrains&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-071d33.svg?&style=for-the-badge&logo=adobe-Photoshop&logoColor=53a1f2" />
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-187b72.svg?&style=for-the-badge&logo=GitKraken&logoColor=white" />
 </p>
 
