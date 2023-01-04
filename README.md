@@ -35,7 +35,3 @@ I'm Aaron Schultz - a .NET Developer, Tech Enthusiast and Gamer from Hamburg, Ge
   <img alt="MS SQL" src="https://img.shields.io/badge/-MS SQL-f7f7f7?style=for-the-badge&logo=microsoft-sql-server&logoColor=black&textColor=black" />
   <img alt="My SQL" src="https://img.shields.io/badge/-MySQL-2f6d88?style=for-the-badge&logo=mysql&logoColor=white&textColor=black" />
 </p>
-
-## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=triky313&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Triky313)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triky313&layout=compact&count_private=true&hide=javascript&show_icons=true&theme=github_dark)](https://github.com/Triky313)
