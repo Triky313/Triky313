@@ -35,3 +35,11 @@ I'm Aaron Schultz - a .NET Developer, Tech Enthusiast and Gamer from Hamburg, Ge
   <img alt="MS SQL" src="https://img.shields.io/badge/-MS SQL-f7f7f7?style=for-the-badge&logo=microsoft-sql-server&logoColor=black&textColor=black" />
   <img alt="My SQL" src="https://img.shields.io/badge/-MySQL-2f6d88?style=for-the-badge&logo=mysql&logoColor=white&textColor=black" />
 </p>
+
+  ##
+  
+<div align="center">
+
+![Snake animation](https://github.com/triky313/triky313/blob/output/github-contribution-grid-snake.svg)
+
+</div>
