@@ -13,7 +13,7 @@
     <img alt="Steam" src="https://img.shields.io/badge/Steam-023e8a.svg?&style=for-the-badge&logo=Steam&logoColor=white" />
   </a>
 </p>
-I'm Aaron Schultz - a .NET Developer, Tech Enthusiast and Gamer from Hamburg, Germany. I mostly deal with .NET software development for WPF, Avalonia and API's (e.g. with RESTFul). Specialist Degree in Computer Science. I have 5+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
+I'm Aaron Schultz - a .NET Developer, Tech Enthusiast and Gamer from Hamburg, Germany. I mostly deal with .NET software development for WPF, Avalonia and API's (e.g. with RESTFul). Specialist Degree in Computer Science. I have 6+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
 
 ## Technologies & Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,githubactions,ps,godot,postgres,html,css,php,blender,postman,discord,unity)](https://skillicons.dev)
