@@ -16,4 +16,4 @@
 I'm Aaron Schultz - a .NET Developer, Tech Enthusiast and Gamer from Hamburg, Germany. I mostly deal with .NET software development for WPF, Avalonia and API's (e.g. with RESTFul). Specialist Degree in Computer Science. I have 7+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
 
 ## Technologies & Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,githubactions,ps,godot,postgres,html,css,php,blender,postman,discord,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,postman,githubactions,ps,godot,postgres,html,css,php,blender,windows,discord,unity)](https://skillicons.dev)
